@@ -1,3 +1,3 @@
 # Holotrout_iOS_App
 
-A description of this package.
+Mobile iOS Pokémon Trading Card Platform
